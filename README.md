@@ -1,4 +1,5 @@
 Copyright 2017 - The LineageOS Project
+                 The AICP Project
 
 Device configuration for ZTE Axon 7.
 =====================================
